@@ -56,19 +56,31 @@ A test assignment for an intern for the position of "C++ Programmer" at Infotecs
 иерархия классов. Чем более функционален интерфейс класса, тем лучше.
 
 Сборка и запуск:
+
 в папке Test_task 
+
 mkdir build
+
 cd build
+
 cmake ..
+
 make
+
 make install
 
+
 в папке build
+
 cd Program_2
+
 ./Program_2
 
+
 Открыть новый терминал, перейти в папку build
+
 cd Program_1
+
 ./Program_1
 
 В терминале, где запущена программа 1 вводить строки без пробела
