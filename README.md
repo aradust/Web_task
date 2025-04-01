@@ -1,5 +1,4 @@
-# Test_task
-A test assignment for an intern for the position of "C++ Programmer" at Infotecs
+# Web_task
 
 Задание состоит из двух программ и библиотеки, которые необходимо реализовать.
 
